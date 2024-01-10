@@ -1,0 +1,4 @@
+﻿  vector.cpp
+D:\VS 2022\Latihan\UAP project\UAP project\vector.cpp(7,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\VS 2022\Latihan\UAP project\UAP project\vector.cpp(33,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  UAP project.vcxproj -> D:\VS 2022\Latihan\UAP project\x64\Debug\UAP project.exe
